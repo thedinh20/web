@@ -37,5 +37,5 @@ const sr = ScrollReveal(
     }
 )
 
-sr.reveal('.home-text, .home-img, .about-img, .about-text, .box, .s-box,.connect-text, .btn, .contact-box .order',{interval:100})
+sr.reveal('.home-text, .home-img, .about-img, .about-text, .box, .s-box,.connect-text, .btn, .contact-box .row',{interval:100})
 
